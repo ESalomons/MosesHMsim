@@ -1,0 +1,380 @@
+D/AnalysisSystem ShortTermVeryIntensiveModule: results not available
+D/AnalysisSystem MediumTermIntensiveModule: results not available
+D/LongTermTRIMPModule Total time: 00:00:00 TRIMP status, status: GRAY
+D/AnalysisSystem ShortTermVeryIntensiveModule: results not available
+D/AnalysisSystem MediumTermIntensiveModule: results not available
+D/LongTermTRIMPModule Total time: 00:00:00 TRIMP status, status: GRAY
+D/AnalysisSystem ShortTermVeryIntensiveModule: results not available
+D/AnalysisSystem MediumTermIntensiveModule: results not available
+D/LongTermTRIMPModule Total time: 00:00:00 TRIMP status, status: GRAY
+D/AnalysisSystem ShortTermVeryIntensiveModule: results not available
+D/AnalysisSystem MediumTermIntensiveModule: results not available
+D/LongTermTRIMPModule Total time: 00:00:00 TRIMP status, status: GRAY
+D/ReplayFileScenario ###########################################
+D/ReplayFileScenario #
+D/ReplayFileScenario # Starting scenario: recordings/HilcoKort.csv
+D/ReplayFileScenario #
+D/ReplayFileScenario ###########################################
+D/ReplayFileScenario Firefighter: id: 112, age: 42, sex: male, HRmax: 190, HRRest: 50
+D/ReplayFileScenario Replay push 00:00:01 - hr: 114
+D/HRRModule HR: 114 HRReserve: 0.46
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.61, hrReserve: 0.46
+D/ShortTermVeryIntensiveModule Total time: 00:00:00, 1 HRReserves, status: GREEN short-term HRReserve OK
+D/ReplayFileScenario Replay push 00:00:02 - hr: 114
+D/MediumTermIntensiveModule Total time: 00:00:00, 1 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:01 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:03 - hr: 115
+D/HRRModule HR: 115 HRReserve: 0.46
+D/TRIMPModule TRIMP: time: 2000 ms, intensity: 1.66, hrReserve: 0.46
+D/ShortTermVeryIntensiveModule Total time: 00:00:02, 3 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:02, 3 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:03 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:04 - hr: 115
+D/HRRModule HR: 115 HRReserve: 0.46
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.66, hrReserve: 0.46
+D/ShortTermVeryIntensiveModule Total time: 00:00:03, 5 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:03, 5 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:04 TRIMP status, status: GREEN
+D/AnalysisSystem HRRModule: results not available
+D/AnalysisSystem TRIMPModule: results not available
+D/ReplayFileScenario Replay push 00:00:05 - hr: 117
+D/ShortTermVeryIntensiveModule Total time: 00:00:03, 6 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:03, 6 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:04 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:06 - hr: 116
+D/HRRModule HR: 117 HRReserve: 0.48
+D/HRRModule HR: 116 HRReserve: 0.47
+D/TRIMPModule TRIMP: time: 2000 ms, intensity: 1.73, hrReserve: 0.48
+D/ShortTermVeryIntensiveModule Total time: 00:00:05, 9 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:05, 9 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:06 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:07 - hr: 117
+D/HRRModule HR: 117 HRReserve: 0.48
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.76, hrReserve: 0.48
+D/ShortTermVeryIntensiveModule Total time: 00:00:06, 12 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:06, 12 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:07 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:08 - hr: 117
+D/HRRModule HR: 117 HRReserve: 0.48
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.76, hrReserve: 0.48
+D/ShortTermVeryIntensiveModule Total time: 00:00:07, 14 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:07, 14 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:08 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:09 - hr: 117
+D/HRRModule HR: 117 HRReserve: 0.48
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.76, hrReserve: 0.48
+D/ShortTermVeryIntensiveModule Total time: 00:00:08, 16 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:08, 16 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:09 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:10 - hr: 116
+D/HRRModule HR: 116 HRReserve: 0.47
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.71, hrReserve: 0.47
+D/ShortTermVeryIntensiveModule Total time: 00:00:09, 18 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:09, 18 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:10 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:11 - hr: 116
+D/HRRModule HR: 116 HRReserve: 0.47
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.71, hrReserve: 0.47
+D/ShortTermVeryIntensiveModule Total time: 00:00:10, 20 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:10, 20 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:11 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:12 - hr: 114
+D/HRRModule HR: 114 HRReserve: 0.46
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.61, hrReserve: 0.46
+D/ShortTermVeryIntensiveModule Total time: 00:00:11, 22 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:11, 22 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:12 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:13 - hr: 113
+D/HRRModule HR: 113 HRReserve: 0.45
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.57, hrReserve: 0.45
+D/ShortTermVeryIntensiveModule Total time: 00:00:12, 24 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:12, 24 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:13 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:14 - hr: 111
+D/ReplayFileScenario Replay push 00:00:15 - hr: 109
+D/HRRModule HR: 109 HRReserve: 0.42
+D/TRIMPModule TRIMP: time: 2000 ms, intensity: 1.39, hrReserve: 0.42
+D/ShortTermVeryIntensiveModule Total time: 00:00:14, 26 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:14, 26 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:15 TRIMP status, status: GREEN
+D/AnalysisSystem HRRModule: results not available
+D/AnalysisSystem TRIMPModule: results not available
+D/ReplayFileScenario Replay push 00:00:16 - hr: 108
+D/ShortTermVeryIntensiveModule Total time: 00:00:14, 27 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:14, 27 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:15 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:17 - hr: 106
+D/HRRModule HR: 108 HRReserve: 0.41
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 2000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:16, 30 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:16, 30 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:17 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:18 - hr: 106
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.26, hrReserve: 0.40
+D/ShortTermVeryIntensiveModule Total time: 00:00:17, 33 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:17, 33 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:18 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:19 - hr: 107
+D/HRRModule HR: 107 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:18, 35 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:18, 35 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:19 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:20 - hr: 108
+D/HRRModule HR: 108 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.35, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:19, 37 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:19, 37 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:20 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:21 - hr: 107
+D/HRRModule HR: 107 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:20, 39 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:20, 39 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:21 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:22 - hr: 107
+D/ReplayFileScenario Replay push 00:00:23 - hr: 106
+D/HRRModule HR: 107 HRReserve: 0.41
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 2000 ms, intensity: 1.28, hrReserve: 0.40
+D/ShortTermVeryIntensiveModule Total time: 00:00:22, 42 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:22, 42 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:23 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:24 - hr: 105
+D/HRRModule HR: 105 HRReserve: 0.39
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.22, hrReserve: 0.39
+D/ShortTermVeryIntensiveModule Total time: 00:00:23, 45 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:23, 45 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:24 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:25 - hr: 106
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.26, hrReserve: 0.40
+D/ShortTermVeryIntensiveModule Total time: 00:00:24, 47 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:24, 47 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:25 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:26 - hr: 106
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.26, hrReserve: 0.40
+D/ShortTermVeryIntensiveModule Total time: 00:00:25, 49 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:25, 49 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:26 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:27 - hr: 106
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.26, hrReserve: 0.40
+D/ShortTermVeryIntensiveModule Total time: 00:00:26, 51 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:26, 51 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:27 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:28 - hr: 108
+D/HRRModule HR: 108 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.35, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:27, 53 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:27, 53 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:28 TRIMP status, status: GREEN
+D/ShortTermVeryIntensiveModule Total time: 00:00:27, 54 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:27, 54 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:28 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:29 - hr: 107
+D/ReplayFileScenario Replay push 00:00:30 - hr: 107
+D/HRRModule HR: 107 HRReserve: 0.41
+D/HRRModule HR: 107 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 2000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:29, 57 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:29, 57 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:30 TRIMP status, status: GREEN
+D/HRRModule HR: 107 HRReserve: 0.41
+D/ReplayFileScenario Replay push 00:00:31 - hr: 107
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:30, 60 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:30, 60 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:31 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:32 - hr: 108
+D/HRRModule HR: 108 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.35, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:31, 62 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:31, 62 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:32 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:33 - hr: 107
+D/HRRModule HR: 107 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:32, 64 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:32, 64 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:33 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:34 - hr: 106
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.26, hrReserve: 0.40
+D/ShortTermVeryIntensiveModule Total time: 00:00:33, 66 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:33, 66 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:34 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:35 - hr: 104
+D/HRRModule HR: 104 HRReserve: 0.39
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.19, hrReserve: 0.39
+D/ShortTermVeryIntensiveModule Total time: 00:00:34, 68 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:34, 68 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:35 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:36 - hr: 106
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.26, hrReserve: 0.40
+D/ShortTermVeryIntensiveModule Total time: 00:00:35, 70 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:35, 70 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:36 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:37 - hr: 107
+D/HRRModule HR: 107 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:36, 72 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:36, 72 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:37 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:38 - hr: 107
+D/HRRModule HR: 107 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:37, 74 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:37, 74 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:38 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:39 - hr: 107
+D/HRRModule HR: 107 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.30, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:38, 76 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:38, 76 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:39 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:40 - hr: 106
+D/HRRModule HR: 106 HRReserve: 0.40
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.26, hrReserve: 0.40
+D/ShortTermVeryIntensiveModule Total time: 00:00:39, 78 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:39, 78 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:40 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:41 - hr: 105
+D/HRRModule HR: 105 HRReserve: 0.39
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.22, hrReserve: 0.39
+D/ShortTermVeryIntensiveModule Total time: 00:00:40, 80 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:40, 80 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:41 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:42 - hr: 108
+D/HRRModule HR: 108 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.35, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:41, 82 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:41, 82 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:42 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:43 - hr: 108
+D/HRRModule HR: 108 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.35, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:42, 84 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:42, 84 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:43 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:44 - hr: 108
+D/HRRModule HR: 108 HRReserve: 0.41
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.35, hrReserve: 0.41
+D/ShortTermVeryIntensiveModule Total time: 00:00:43, 86 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:43, 86 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:44 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:45 - hr: 109
+D/HRRModule HR: 109 HRReserve: 0.42
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.39, hrReserve: 0.42
+D/ShortTermVeryIntensiveModule Total time: 00:00:44, 88 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:44, 88 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:45 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:46 - hr: 110
+D/HRRModule HR: 110 HRReserve: 0.43
+D/ReplayFileScenario Replay push 00:00:47 - hr: 109
+D/TRIMPModule TRIMP: time: 2000 ms, intensity: 1.43, hrReserve: 0.43
+D/ShortTermVeryIntensiveModule Total time: 00:00:46, 90 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:46, 90 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:47 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:48 - hr: 109
+D/HRRModule HR: 109 HRReserve: 0.42
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.39, hrReserve: 0.42
+D/ShortTermVeryIntensiveModule Total time: 00:00:47, 92 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:47, 92 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:48 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:49 - hr: 109
+D/HRRModule HR: 109 HRReserve: 0.42
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.39, hrReserve: 0.42
+D/ShortTermVeryIntensiveModule Total time: 00:00:48, 94 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:48, 94 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:49 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:50 - hr: 109
+D/HRRModule HR: 109 HRReserve: 0.42
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.39, hrReserve: 0.42
+D/ShortTermVeryIntensiveModule Total time: 00:00:49, 96 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:49, 96 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:50 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:51 - hr: 111
+D/HRRModule HR: 111 HRReserve: 0.44
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.47, hrReserve: 0.44
+D/ShortTermVeryIntensiveModule Total time: 00:00:50, 98 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:50, 98 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:51 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:52 - hr: 113
+D/HRRModule HR: 113 HRReserve: 0.45
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.57, hrReserve: 0.45
+D/ShortTermVeryIntensiveModule Total time: 00:00:51, 100 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:51, 100 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:52 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:53 - hr: 115
+D/HRRModule HR: 115 HRReserve: 0.46
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.66, hrReserve: 0.46
+D/ShortTermVeryIntensiveModule Total time: 00:00:52, 102 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:52, 102 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:53 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:54 - hr: 117
+D/HRRModule HR: 117 HRReserve: 0.48
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.76, hrReserve: 0.48
+D/ShortTermVeryIntensiveModule Total time: 00:00:53, 104 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:53, 104 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:54 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:55 - hr: 118
+D/HRRModule HR: 118 HRReserve: 0.49
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.81, hrReserve: 0.49
+D/ShortTermVeryIntensiveModule Total time: 00:00:54, 106 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:54, 106 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:55 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:56 - hr: 119
+D/HRRModule HR: 119 HRReserve: 0.49
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.86, hrReserve: 0.49
+D/ShortTermVeryIntensiveModule Total time: 00:00:55, 108 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:55, 108 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:56 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:57 - hr: 120
+D/HRRModule HR: 120 HRReserve: 0.50
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.91, hrReserve: 0.50
+D/ShortTermVeryIntensiveModule Total time: 00:00:56, 110 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:56, 110 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:57 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:58 - hr: 121
+D/HRRModule HR: 121 HRReserve: 0.51
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 1.97, hrReserve: 0.51
+D/ShortTermVeryIntensiveModule Total time: 00:00:57, 112 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:57, 112 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:58 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:00:59 - hr: 122
+D/HRRModule HR: 122 HRReserve: 0.51
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 2.02, hrReserve: 0.51
+D/ShortTermVeryIntensiveModule Total time: 00:00:58, 114 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:58, 114 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:00:59 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:01:00 - hr: 126
+D/HRAvgModule Avg HR: 110.87 
+D/HRRModule HR: 126 HRReserve: 0.54
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 2.26, hrReserve: 0.54
+D/CoreTemperatureModule GREEN Temperature OK || Measured : 37.102
+D/ShortTermVeryIntensiveModule Total time: 00:00:59, 116 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:00:59, 116 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:01:00 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:01:01 - hr: 124
+D/HRRModule HR: 124 HRReserve: 0.53
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 2.14, hrReserve: 0.53
+D/CoreTemperatureModule GREEN Temperature OK || Measured : 37.102
+D/ShortTermVeryIntensiveModule Total time: 00:01:00, 118 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:01:00, 118 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:01:01 TRIMP status, status: GREEN
+D/ReplayFileScenario Replay push 00:01:02 - hr: 127
+D/HRRModule HR: 127 HRReserve: 0.55
+D/TRIMPModule TRIMP: time: 1000 ms, intensity: 2.32, hrReserve: 0.55
+D/ShortTermVeryIntensiveModule Total time: 00:01:01, 120 HRReserves, status: GREEN short-term HRReserve OK
+D/MediumTermIntensiveModule Total time: 00:01:01, 120 HRReserves, status: GREEN med-term HRReserve OK
+D/LongTermTRIMPModule Total time: 00:01:02 TRIMP status, status: GREEN
+D/ReplayFileScenario ###########################################
+D/ReplayFileScenario #
+D/ReplayFileScenario # Simulation finished: recordings/HilcoKort.csv
+D/ReplayFileScenario #
+D/ReplayFileScenario ###########################################

@@ -1,0 +1,10 @@
+.gradle
+build
+recordings
+AndroidManifest.xml
+firefighters.json
+src/main/assets
+src/main/java/android
+src/main/java/nl/saxion/ami/moses/common
+src/main/java/nl/saxion/ami/moses/healthstatusmonitoring
+src/main/res

@@ -1,0 +1,24 @@
+apply plugin: 'java'
+
+task copyToAndroid(type: Copy){
+    from 'src/main/java/nl/saxion/ami/moses/healthstatusmonitoring'
+    into '/Users/etto/Develop/GitHub/MoSeS/healthstatusmonitoring/src/main/java/nl/saxion/ami/moses/healthstatusmonitoring/'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'org.slf4j:slf4j-api:1.7.21'
+    testCompile 'junit:junit:4.12'
+    // https://mvnrepository.com/artifact/com.typesafe/config
+    compile group: 'com.typesafe', name: 'config', version: '1.2.1'
+    // https://mvnrepository.com/artifact/com.google.code.gson/gson
+    compile group: 'com.google.code.gson', name: 'gson', version: '2.8.0'
+    // https://mvnrepository.com/artifact/org.json/json
+    compile group: 'org.json', name: 'json', version: '20160810'
+
+
+}
+

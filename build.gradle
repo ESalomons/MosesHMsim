@@ -1,6 +1,6 @@
 apply plugin: 'java'
 
-task copyToAndroid(type: Copy){
+task copyToAndroid(type: Copy) {
     from 'src/main/java/nl/saxion/ami/moses/healthstatusmonitoring'
     into '/Users/etto/Develop/GitHub/MoSeS/healthstatusmonitoring/src/main/java/nl/saxion/ami/moses/healthstatusmonitoring/'
 }
@@ -22,3 +22,16 @@ dependencies {
 
 }
 
+task runAll dependsOn build {
+    description = 'Run all'
+    nrs = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17', '18', '19', '20', '21', '22', '23']
+    nrs.each { nr ->
+        doLast {
+            javaexec {
+                classpath = sourceSets.main.runtimeClasspath
+                main = "sim.SimProg"
+                args = ["${nr}"]
+            }
+        }
+    }
+}

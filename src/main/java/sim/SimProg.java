@@ -21,7 +21,27 @@ public class SimProg {
     private SimClock clock;
 
     public static void main(String[] args) {
-        new SimProg().run();
+        if (args.length > 0) {
+            new SimProg().run(Integer.parseInt(args[0]));
+        } else {
+            new SimProg().run();
+
+        }
+    }
+
+    private void run(int nr){
+        this.clock = new SimClock();
+        Clock.setClock(clock);
+
+        HealthStatusMonitoringComponent hsmc = new HealthStatusMonitoringComponent();
+        Context context = new Context();
+        hsmc.start(context);
+        unregisterZephyrModules();
+
+        ReplayFileScenario sim = ReplayFileScenario.getInstance();
+        String filename = getFilename(nr);
+        sim.readFile(filename);
+        sim.startSimulator();
     }
 
     private void run() {
@@ -38,7 +58,7 @@ public class SimProg {
 //        sim.startSimulator();
 
         ReplayFileScenario sim = ReplayFileScenario.getInstance();
-        String filename = getFilename(0);
+        String filename = getFilename(18);
         sim.readFile(filename);
         sim.startSimulator();
     }
